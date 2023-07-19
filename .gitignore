@@ -1,6 +1,7 @@
 .env
 .venv
 env/
+my_venv/
 venv/
 ENV/
 env.bak/
