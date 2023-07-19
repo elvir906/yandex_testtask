@@ -13,7 +13,7 @@ messages = {
     + ' дарит мне кучу положительных эмоций👍.',
 
     'sources':
-    'https://github.com/elvir906/SMART/tree/main/project_smart/project_smart',
+    'https://github.com/elvir906/yandex_testtask',
 
     'next_step':
     'Жду дальнейших указаний🤩. Отправляй текст!😇'
